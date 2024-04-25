@@ -1,4 +1,6 @@
 .form {
+  display: flex;
+  justify-content: center;
   background-color: blue;
   padding: 10px;
   margin-left: auto;
