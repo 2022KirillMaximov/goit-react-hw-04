@@ -1,0 +1,14 @@
+.cover {
+  display: flex;
+  justify-content: center;
+  border-color: rgb(82, 82, 100);
+}
+.btn {
+  border-color: rgb(82, 82, 100);
+  display: flex;
+  justify-content: center;
+}
+.btn:hover,
+.btn:focus {
+  border-color: rgb(82, 82, 100);
+}
